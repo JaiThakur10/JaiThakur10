@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/d35065bba4dee546ecdd6fe59d78d6c3a4f188b17383e1ca78f0ec1f12b629d2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Jai Thakur</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
